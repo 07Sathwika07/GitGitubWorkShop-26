@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: k.sathwika rao
+- Roll Number: 160125737089
+- Section: IT-2
+- GitHub Username: 07SATHWIKA07
